@@ -115,6 +115,9 @@
         <mxCell id="1-MRNlKhjZM3Z6entHPN-8" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="519" y="93" width="120" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="1-MRNlKhjZM3Z6entHPN-9" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
